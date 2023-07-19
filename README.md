@@ -1,7 +1,6 @@
 ### Olá! eu sou gustavo alves 🖐️ 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_alves.a/)<br/>
-![gusta GitHub stats](https://github-readme-stats.vercel.app/api?username=gustaedit&show_icons=true&theme=radical)
 ## tecnologias que uso no meu dia dia
 <div style="display: inline_block"><br/>
     <img aling="concenter" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
