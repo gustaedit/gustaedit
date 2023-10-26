@@ -18,4 +18,4 @@ FORMAÇÃO ACADÊMICA<br/>
 -Inglês básico CCAA – Tn3<br/>
 -Inglês Intermediário – Fisk<br/>
 -Vídeo Designer – Saga<br/>
--Programação – Infinity ( Cursando)<br/>
+-Programação – Infinity<br/>
