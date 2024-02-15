@@ -15,7 +15,7 @@ FORMAÇÃO ACADÊMICA<br/>
 -Segundo Grau completo (Anchieta)<br/>
 -Cursando Engenharia de Software –UCSAL<br/>
 -CURSOS<br/>
--Inglês básico CCAA – Tn3<br/>
 -Inglês Intermediário – Fisk<br/>
 -Vídeo Designer – Saga<br/>
 -Programação – Infinity<br/>
+-Estagio – Mobtex<br/>
