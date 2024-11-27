@@ -19,6 +19,6 @@ FORMAÇÃO ACADÊMICA<br/>
 -Vídeo Designer – Saga<br/>
 -Programação – Infinity<br/>
 -Estagio – Mobtex<br/>
-  *front end/full stack/>
+*front end/full stack<br/>
 -Estagio –TRT(Tribunal regional do trabalho)<br/>
-   *Cybersecurity/>
+*Cybersecurity<br/>
