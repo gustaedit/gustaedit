@@ -18,7 +18,8 @@ FORMAÇÃO ACADÊMICA<br/>
 -Inglês Intermediário – Fisk<br/>
 -Vídeo Designer – Saga<br/>
 -Programação – Infinity<br/>
+ ### Estagios
 -Estagio – Mobtex<br/>
- <h4>*front end/full stack<h4/><br/>
+ <h2>*front end/full stack<h2/><br/>
 -Estagio –TRT(Tribunal regional do trabalho)<br/>
- <h4>*Cybersecurity<h4/><br/>
+ <h2>*Cybersecurity<h2/><br/>
